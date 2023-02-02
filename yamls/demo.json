@@ -1,0 +1,7 @@
+{   
+    "corner": false,
+    "coarse_pose": true,
+    "translation_noise": 1,
+    "rotation_noise": 40
+
+}
