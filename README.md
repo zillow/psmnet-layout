@@ -41,6 +41,11 @@ python demo.py
     <img src="assets/demo.png" alt="framework" width="100%" />
 </p>
 
+
+## Dataset
+The pair-wise PSMNet data was derived from ZInD, and partitioned according to the ZInD public train/test/val split. The zipped data for each partition may be downloaded here: [train](https://files.zillowstatic.com/research/public/StaticFiles/psmnet/train.zip), [test](https://files.zillowstatic.com/research/public/StaticFiles/psmnet/test.zip), [valid](https://files.zillowstatic.com/research/public/StaticFiles/psmnet/valid.zip). Each data file is named by the concatenation of the corresponding ZInD identifiers for each panorama in the pair, and contains the relative pose, the joint visible layout, the vanishing angles for each panorama, and the ceiling height, as well as the metrics used for analysis in the paper: covisibility score and spatial overlap. 
+
+
 ## Citation
 
 If you find our work useful for your research, please consider citing:
