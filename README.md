@@ -66,3 +66,6 @@ If you find our work useful for your research, please consider citing:
 [DuLa-Net](https://github.com/SunDaDenny/DuLa-Net)
 
 [LoFTR](https://github.com/zju3dv/LoFTR)
+
+## License
+This work is released under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (see LICENSE file for more details).
